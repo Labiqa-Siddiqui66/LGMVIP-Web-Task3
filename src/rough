@@ -1,0 +1,11 @@
+{Data.map((enroll, i) => (
+    <div className='data' key={i}>
+        <h4><b>Name: {enroll.Name}</b></h4>
+        <h4>Email: {enroll.Email}</h4>
+        <h4>Gender: {enroll.Gender}</h4>
+        <h4>Website: {enroll.Website}</h4>
+        <h4>Imagelink: {enroll.Imagelink}</h4>
+        <h4>Skills: {enroll.Skills}</h4>
+    </div>
+
+))}

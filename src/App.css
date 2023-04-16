@@ -1,0 +1,191 @@
+*{
+  box-sizing: border-box;
+}
+body{
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmtulP9ls3Q52kf8B03Sxn-kDeUYSdsVkgwcsDy1_glw&s");
+  margin:0;
+  width:80%;
+  height:80%;
+  background-size: cover;
+}
+.navbar{
+  background-color: black;
+  width:150%;
+  color: white;
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  gap:0;
+  padding: 0 1rem;
+  height:45px;
+}
+.title{
+  color:white;
+  margin-left:445px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 30px;
+}
+.form{
+  margin-top:65px;
+  margin-left: 90px;
+  width:70%;
+  height:100%;
+}
+
+.Name{
+  color:transparent;
+}
+.name{
+  margin-left:70px;
+  color: black;
+}
+.email{
+  margin-left:13px;
+  color: black;
+}
+.website{
+  margin-left: 54px;
+  color: black;
+}
+.imagelink{
+  margin-left: 37px;
+  color: black;
+}
+.namelabel{
+  color:white;
+}
+.emaillabel{
+  color:white;
+}
+.Websitelabel{
+  color:white;
+}
+.Imagelinklabel{
+  color: white;
+}
+.Genderlabel{
+  color:white
+}
+.gender{
+  margin-left: 58px;
+}
+
+.skills{
+  color:white;
+}
+#py{
+  margin-left: 15px;
+  margin-right: 8px;
+  width:18px;
+  height:18px;
+}
+#ht{
+  margin-left: 73px;
+  margin-right: 8px;
+  width:18px;
+  height:18px
+}
+.ht{
+  color:white;
+}
+#cs{
+  margin-left:23px;
+  margin:8px;
+  width:18px;
+  height:18px
+}
+.cs{
+  color:white
+}
+
+#javs{
+  margin-left: 12px;
+  margin-right: 8px;
+  width:18px;
+  height:18px;
+}
+.vl {
+  margin-left: 590px;
+  border-left: 6px solid white;
+  height: 500px;
+}
+#Php{
+  margin-left: 12px;
+  margin-right: 8px;
+  width:18px;
+  height:18px;
+  color:white
+}
+.form-head{
+  font-size: 16px;
+  margin-left: 97px;
+  margin-top:20px;
+  color:white
+}
+.heading{
+  margin-top:10px;
+  margin-left: 700px;
+  color:white;
+}
+.ph {
+  color:white
+}
+.p{
+  color:white
+}
+.j{
+  color:white
+}
+.display{
+  background-color:transparent;
+  align-items:first baseline;
+  margin-top:-440px;
+  margin-left:700px;
+}
+.none{
+  display:none;
+}
+.data{
+  
+  font-size:8px;
+  font-family:'Times New Roman', Times, serif;
+  color:white;
+}
+.under{
+  color:blue
+}
+.desc{
+  color: black;
+  font-family:'Times New Roman', Times, serif;
+  font-size:30px;
+}
+.profile{
+  color:black;
+  font-size: 30px;
+  margin-left:345px;
+  margin-top: -50px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+#bt{
+  margin-left:15px;
+  width:70px;
+}
+.image{
+  color:blue;
+  height:150px;
+  width:150px;
+  margin-left:310px;
+  margin-top:-230px;
+}
+.b{
+  color:blue;
+}
+.hl{
+  
+  width:500px;
+  height: 4px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: black
+}
